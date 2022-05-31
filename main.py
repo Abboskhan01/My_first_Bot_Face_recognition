@@ -5,7 +5,7 @@ import numpy as np
 import face_recognition
 from telegram import InputMediaPhoto
 TOKEN = ""
-ADMIN_ID = 00000
+ADMIN_ID = 0000000
 
 
 

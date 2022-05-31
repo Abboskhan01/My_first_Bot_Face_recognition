@@ -34,5 +34,4 @@ def main():
     with open ("../sample.json", 'w') as sample:
         sample.write(encode_data)
 
-if __name__ == '__main__':
-    main()
+main()
